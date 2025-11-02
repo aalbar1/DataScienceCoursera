@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" role="img" aria-labelledby="dbsoTitle dbsoDesc">
+  <title id="dbsoTitle">???? ???? DBSO</title>
+  <desc id="dbsoDesc">???? DBSO ???????? ?????? ??????? ?? ??? ???? ???? ?????? ??????</desc>
+  <defs>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#007bff" />
+      <stop offset="100%" stop-color="#1c9bff" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00bba5" />
+      <stop offset="100%" stop-color="#00d6c2" />
+    </linearGradient>
+  </defs>
+
+  <g fill="url(#blueGradient)">
+    <path
+      d="M30 30h72c44 0 76 28 76 70s-32 70-76 70H30V30zm34 30v80h38c25 0 42-15 42-40s-17-40-42-40H64z"
+      fill-rule="evenodd"
+    />
+    <path
+      d="M190 30h46c32 0 54 17 54 42 0 16-10 28-26 35 18 6 30 19 30 37 0 27-23 46-58 46h-46V30zm36 30v40h11c15 0 25-7 25-20 0-13-10-20-25-20h-11zm0 70v40h15c16 0 27-8 27-21 0-13-11-19-27-19h-15z"
+      fill-rule="evenodd"
+    />
+    <path
+      d="M346 30c48 0 84 36 84 85s-36 85-84 85-84-36-84-85 36-85 84-85zm0 30c-29 0-48 24-48 55s19 55 48 55 48-24 48-55-19-55-48-55z"
+    />
+  </g>
+
+  <g stroke="url(#greenGradient)" stroke-linecap="round" stroke-width="10" fill="none">
+    <path d="M276 58c12-14 34-24 56-24 40 0 74 28 74 65 0 20-11 37-26 49" opacity="0.35" />
+    <path d="M290 80c9-12 26-20 44-20 32 0 58 22 58 50 0 20-12 34-28 42" opacity="0.55" />
+    <path d="M302 102c7-9 20-16 34-16 24 0 42 16 42 38 0 18-12 30-30 34" opacity="0.75" />
+    <path d="M314 124c4-6 11-9 20-9 15 0 26 10 26 23 0 14-12 23-27 23h-72" />
+    <path d="M318 146h-46c-22 0-40-13-40-34 0-22 19-38 44-38 12 0 22 4 30 11" opacity="0.8" />
+  </g>
+
+  <text x="210" y="190" text-anchor="middle" font-family="'Cairo', 'Tahoma', sans-serif" font-size="38" fill="#00bba5">
+    ???? ?????????? ?????
+  </text>
+</svg>
